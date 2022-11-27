@@ -1,5 +1,5 @@
 # 1dCellularAutomata
-Graphical unidimentional cellular automata simulator where the user may specify the transition rules.
+Graphical unidimensional cellular automata simulator where the user may specify the transition rules.
 
 ## Enunciado
 
